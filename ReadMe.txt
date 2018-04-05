@@ -16,6 +16,18 @@ Map-Matching.vcxproj.filters
 main.cpp
     这是主应用程序源文件。
 
+Map-Matching.cpp
+    这是 naive map matching 算法源文件
+
+Map-Matching.h
+    这是 naive map matching 算法头文件
+
+ST-Matching.cpp
+    这是 st-matching 算法源文件
+
+ST-Matching.h
+    这是 st-matching 算法头文件
+
 /////////////////////////////////////////////////////////////////////////////
 其他标准文件:
 
